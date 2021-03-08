@@ -3,7 +3,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * main class 
+ * main class
  */
 public class Main {
     public static void main(String[] args) {
